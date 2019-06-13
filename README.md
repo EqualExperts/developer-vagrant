@@ -7,3 +7,8 @@
 - edit `scripts/environment-variables.sh`
 - run `vagrant up --provision`
 - run `vagrant ssh`
+
+## environment-variables.sh
+  - consists of keys, password or any other information that is developer or environment specific
+  - should not be checked in to the repository
+  
